@@ -1,0 +1,1 @@
+This is a minimal example to convert uploaded image to opencv image at backend.
